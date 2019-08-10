@@ -1,0 +1,19 @@
+{
+  "name": "webwindowmanager",
+  "version": "1.0.0",
+  "description": "Live preview: https://jsbin.com/fivojuc/32/edit?output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yortuc/WebWindowManager.git"
+  },
+  "author": "evren yortucboylu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yortuc/WebWindowManager/issues"
+  },
+  "homepage": "https://github.com/yortuc/WebWindowManager#readme"
+}
